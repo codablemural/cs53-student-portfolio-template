@@ -1,5 +1,13 @@
 # CS 53 Cybersecurity Portfolio
 
-This repository is a student portfolio template for the CS 53 cybersecurity course sequence.
+This portfolio contains selected, sanitized lab work from the CS 53
+cybersecurity course sequence.
 
-Each course portfolio will contain selected, sanitized lab work that demonstrates technical skills, observations, and what you learned.
+Each lab entry documents technical work, observations, results, and
+what I learned.
+
+## Portfolio Guidelines
+
+Portfolio materials are curated for security and privacy. Sensitive
+information, credentials, tokens, private keys, and unsanitized
+security data should never be included.
