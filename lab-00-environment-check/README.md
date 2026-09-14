@@ -1,19 +1,23 @@
 # Lab 0: Environment and Portfolio Setup
 
-## Environments Verified
-
-- Codio Linux terminal
-- Windows virtual machine
-- GitHub repository
+This lab establishes the computing environments and tools used throughout the CS 53 course sequence.
 
 ## Linux Check
 
-Describe how you verified access to the Linux environment.
+- Linux environment: Not yet verified
+- File created: `linux-check.txt`
 
 ## Windows Check
 
-Describe how you verified access to the Windows virtual machine.
+- Windows environment: Not yet verified
+- File created: `windows-check.txt`
+
+## GitHub Check
+
+- GitHub account: Not yet verified
+- Portfolio repository: Not yet verified
+- Codio connection: Not yet verified
 
 ## What I Learned
 
-Briefly describe what you learned about the different computing environments used in this lab.
+Briefly describe one thing you learned while setting up your computing environments, GitHub account, or course portfolio.
